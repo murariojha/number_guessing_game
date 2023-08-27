@@ -1,1 +1,1 @@
-
+Welcome to the Number Guessing Game! The game randomly selects a secret number, and your task is to guess it correctly. You'll receive hints after each guess – whether the secret number is higher or lower than your guess. Use your deduction skills to narrow down the possibilities and make the perfect guess. With every correct guess, you're one step closer to victory. Start guessing and see if you can uncover the hidden number!
